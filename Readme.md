@@ -1,0 +1,1 @@
+Projeto realizado na disciplina Probabilidade e Estatística para plotar os índices do IDEB (Índice de Desenvolvimento da Educação Básica) nas cidades do Rio Grande do Norte com o objetivo de analizá-los. No código feito no Google Colab foram utilizadas as bibliotecas Matplotlib e pandas para visualização dos índices.
